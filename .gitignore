@@ -1,0 +1,9 @@
+.idea/
+target/
+*.iml
+*.class
+
+# Variables locales y archivos con secretos
+.env
+.env.*
+!.env.example
